@@ -1,1 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NSCARS</title>
+    <link rel="stylesheet" href="style.css"
+</head>
+<body>
+    <header>
+        <h1>NSCARS</h1>
+        <p>Seu carro seminovo com garantia e  confiança</p>
+    </header>
 
+    <section>
+    <h2>Quem somos:</h2>
+   
+    <p>A NSCARS atua a 15 anos no mercado de seminovos. <br>
+    Trabalhamos apenas com carros revisados e com garantia de 90 dias.</p>
+    </section>
+
+    <section>
+    <h2>Nossos serviços</h2>
+    <ul>
+ <li>Venda de carros seminovos e com garantia.</li>
+ <li>Avaliação do seu usado para troca.</li>
+ <li>Seguro de veículos.</li>
+ </ul>
+   </section>
+
+   <section>
+ <h2>Marcas que trabalhamos</h2>
+ <h4>Trabalhamos com as principais marcas do mercado:</h4> 
+ <ul>
+<li>Chevrolet</li>
+<li>Volkswagen</li>
+<li>Fiat</li>
+<li>Toyota</li>
+<li>Hyundai</li>
+<li>Nissan</li>
+<li>Ford</li>
+ </ul>
+  </section>
+
+<footer>
+    <h2>Lucas Nunes</h2>
+</footer>
+
+
+
+
+    
+</body>
+</html>
